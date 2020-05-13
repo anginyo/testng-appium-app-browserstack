@@ -1,0 +1,21 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "ibuilddevelopmen1",
+  "key": "yE2p6NpqpsXaqq4dtqMK",
+
+  "capabilities": {
+    "build": "testng-browserstack",
+    "name": "iBuild Test Platform",
+    "browserstack.debug": true,
+    "os": "android",
+    "app": "bs://5c00544d9181429a6d158640edf9c235691e51ef",
+    "realMobile":true
+
+  },
+
+  "environments": {
+    "galaxy_s7": {
+      "device": "Samsung Galaxy S10e"
+    }
+  }
+}

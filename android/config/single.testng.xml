@@ -5,7 +5,7 @@
         <parameter name="config" value="single.conf.json"/>
         <parameter name="environment" value="galaxy_s7"/>
         <classes>
-            <class name="com.browserstack.SingleTest"/>
+            <class name="com.mobile.iBuild.suite.CreateProject"/>
         </classes>
     </test>
 </suite>
